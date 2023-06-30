@@ -1,0 +1,3 @@
+[submodule "artifactManager/backend"]
+	path = artifactManager/backend
+	url = git@github.com:xicYue/mlop-artifact-backend.git
