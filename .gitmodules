@@ -1,3 +1,6 @@
 [submodule "artifactManager/backend"]
 	path = artifactManager/backend
 	url = git@github.com:xicYue/mlop-artifact-backend.git
+[submodule "examples"]
+	path = examples
+	url = git@github.com:xicYue/ml-examples.git
